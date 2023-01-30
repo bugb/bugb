@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bugb
 - 👀 I’m interested in everything related to Devops, Crypto trading and high performance systems. 
-- 🌱 I’m currently learn and share Devops tips, templates, code, ... for beginners
+- 🌱 I’m currently learn and share Devops tips, templates, codes, ... for beginners
 - 💞️ I’m looking to collaborate on any Crypto trading or Devops projects
 
 
